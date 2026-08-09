@@ -1,4 +1,4 @@
-# Hi, I'm Manikanta Pasupuleti 👋
+# Hi, I'm Manikanta Pasupuleti 
 
 ### Full-Stack Developer | Computer Science Student
 
